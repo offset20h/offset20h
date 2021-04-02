@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This it file3
+=======
+This is file3 my_test git!!!
+>>>>>>> add-feature1
